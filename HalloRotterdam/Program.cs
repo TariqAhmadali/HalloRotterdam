@@ -7,7 +7,7 @@ namespace HalloRotterdam
         static void Main(string[] args)
         {
             Console.WriteLine("Hallo Rotterdam!");
-            Console.WriteLine("Groeten van Ruud");
+            Console.WriteLine("Groetjes van Ruud");
         }
     }
 }
